@@ -1,5 +1,5 @@
 
-# Predictive Maintenance Using Machine Learning
+# Equipment-Failure-Prediction Using Machine Learning
 
 ## Overview
 Predictive maintenance leverages machine learning to forecast potential equipment failures before they occur. This project utilizes **LSTM (Long Short-Term Memory) networks** along with other ML techniques to predict maintenance needs based on sensor data, reducing downtime and optimizing operational efficiency.
